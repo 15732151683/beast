@@ -15,3 +15,8 @@ export default {
   }
 }
 </script>
+<style lang="less" scoped>
+   .home{
+       color: red;
+   }
+</style>
